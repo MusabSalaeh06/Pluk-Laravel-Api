@@ -1,0 +1,9 @@
+$table->id('id');
+$table->string('title');
+$table->string('description');
+$table->string('up_image');
+$table->string('up_video');
+$table->string('link_y');
+$table->string('link_g');
+$table->string('document');
+$table->timestamps();
